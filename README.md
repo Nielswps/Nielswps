@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on sustainable solutions that will help solve the climate crisis, and which could possibly be worked on as part of my master thesis.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
-  - <img alt="JavaFX" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/> : nielswps<span>@</span>gmail.com 
+  - <img alt="GMail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/> : nielswps<span>@</span>gmail.com 
   - [<img alt="Niels Vistisen | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 ## Stats
