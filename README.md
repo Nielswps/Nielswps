@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   - <img alt="GMail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/> : nielswps<span>@</span>gmail.com 
-  - [<img alt="Niels Vistisen | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+  - [<img alt="Niels Vistisen | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] : linkedin.com/in/niels-f-s-vistisen-04a718112
 
 ## Stats
 [![Niels's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nielswps&count_private=true&show_icons=true&hide=stars&hide_rank=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
