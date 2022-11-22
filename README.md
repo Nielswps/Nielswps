@@ -14,17 +14,15 @@
 - 👀 Overview:
 
 &nbsp; &nbsp; &nbsp; &nbsp;
+[<img alt="Rust" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg"/>](https://www.rust-lang.org/) &nbsp;
 [<img alt="JavaFX" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>](https://openjfx.io/) &nbsp;
 [<img alt="Laravel" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg"/>](https://laravel.com/) &nbsp;
-[<img alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>](https://www.python.org/) &nbsp;
 [<img alt="Git" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/>](https://git-scm.com/) &nbsp;
 [<img alt="GitHub" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>](https://github.com/) &nbsp;
 [<img alt="Linux" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg"/>](https://www.linux.org/) &nbsp;
-<img alt="C" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/> &nbsp;
-[<img alt="CSharp" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>](https://www.python.org/)
 
-- 🔧 Currently working with Java for desktop and PHP for web application development, utilizing JavaFX  and Laravel respectively.
-- ⚙️ I am also experienced in Python based ML and C# desktop application development
+- 🔧 Currently working on cross-chain trading for micro grids using Polkadot and Substrate in Rust.
 
 [linkedin]: https://www.linkedin.com/in/niels-f-s-vistisen-04a718112/
 
