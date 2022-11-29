@@ -1,7 +1,7 @@
 # Hi, I'm Niels👋
 
 ## About me
-- 🔭 I’m currently working on getting my master's degree in Software from Aalborg University and as a front-end developer on [ECDAR](https://www.ecdar.net/).
+- 🔭 I’m currently working on getting my master's degree in Software from Aalborg University and as a front-end developer/DevOps on [ECDAR](https://www.ecdar.net/).
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   - <img alt="GMail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/> : nielswps<span>@</span>gmail.com 
