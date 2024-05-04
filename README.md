@@ -1,7 +1,7 @@
 # Hi, I'm Niels👋
 
 ## About me
-- 🔭 I’m currently working on getting my master's degree in Software from Aalborg University and as a front-end developer/DevOps on [ECDAR](https://www.ecdar.net/).
+- 🔭 Aspiring Quality Assurance Specialist
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   - <img alt="GMail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/> : nielswps<span>@</span>gmail.com 
@@ -22,7 +22,7 @@
 [<img alt="Linux" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg"/>](https://www.linux.org/) &nbsp;
 [<img alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>](https://www.python.org/)
 
-- 🔧 Currently working on cross-chain trading for micro grids using Polkadot and Substrate in Rust.
+- 🔧 Currently I am working with Micro Services at Trifork as a Software Pilot, with a focus on Quality Assurance
 
 [linkedin]: https://www.linkedin.com/in/niels-f-s-vistisen-04a718112/
 
